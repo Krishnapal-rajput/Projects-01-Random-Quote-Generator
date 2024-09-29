@@ -44,12 +44,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-### Additional Tips:
-- Make sure to replace `your-username` with your actual GitHub username.
-- Include a screenshot of your app in the demo section.
-- If you have a live demo link (e.g., on GitHub Pages), you can include it in the demo section as well.
-- Update the **Contributing** section based on how you'd like others to contribute.
-
-
